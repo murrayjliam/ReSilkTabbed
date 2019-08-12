@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReSilkTabbed/Constant.swift"
+            timestampString = "575804245.2403899"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_2CC91E5655B39216766417EF2503F745_func5"
+                  moduleName = "ReSilkTabbed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murrayjliam/Documents/University%20of%20Liverpool/year4/COMP390/ReSilkTabbed/ReSilkTabbed/Constant.swift"
+                  timestampString = "575465641.041778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "11">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReSilkTabbed.Colors.green.unsafeMutableAddressor : __C.UIColor"
+                  moduleName = "ReSilkTabbed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/murrayjliam/Documents/University%20of%20Liverpool/year4/COMP390/ReSilkTabbed/ReSilkTabbed/Constant.swift"
+                  timestampString = "575465641.044457"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
